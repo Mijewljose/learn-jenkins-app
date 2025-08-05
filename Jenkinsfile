@@ -8,7 +8,6 @@ pipeline {
                 sh 'whoami'
                 sh 'echo "hey"'
                 sh 'df -h'
-                
             }
         }
     }
